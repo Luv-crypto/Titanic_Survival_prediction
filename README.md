@@ -1,7 +1,7 @@
 Created on 3 june, 2021
 Author: Love Fadia
 
-The code above predicts the survived passengers from the titanic catastrophe based on the features given in the Dataset The project is organized as follows
+The code above predicts the survived passengers from the titanic catastrophe based on the features given in the Dataset 
 
 Data visualization and cleaning
 Train-Test splitting
