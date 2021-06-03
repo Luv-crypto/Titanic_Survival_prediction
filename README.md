@@ -5,9 +5,7 @@ The code above predicts the survived passengers from the titanic catastrophe bas
 
 Data visualization and cleaning,Train-Test splitting,Training models and Model evaluation
 
-train.csv: dataset used for training.
-test.csv: dataset used for testing.
-submission.csv: dataset used for submitting to kaggle.
+train.csv: dataset used for training.,test.csv: dataset used for testing.,submission.csv: dataset used for submitting to kaggle.
 
 Dataset link = https://www.kaggle.com/c/titanic/data
 Titanic.ipynb: the jupyter notebook containing code
