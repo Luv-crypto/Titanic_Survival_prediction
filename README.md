@@ -1,11 +1,9 @@
 Created on 3 june, 2021
 Author: Love Fadia
 
-The code above predicts the survived passengers from the titanic catastrophe based on the features given in the Dataset 
+The code above predicts the survived passengers from the titanic catastrophe based on the features given in the Dataset .The project is organized as follows
 
-Data visualization and cleaning
-Train-Test splitting
-Training models and Modle evaluation
+Data visualization and cleaning,Train-Test splitting,Training models and Model evaluation
 
 train.csv: dataset used for training.
 test.csv: dataset used for testing.
