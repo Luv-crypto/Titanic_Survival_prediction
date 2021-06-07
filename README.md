@@ -3,9 +3,15 @@ Author: Love Fadia
 
 The code above predicts the survived passengers from the titanic catastrophe based on the features given in the Dataset .The project is organized as follows
 
-Data visualization and cleaning,Train-Test splitting,Training models and Model evaluation
+1) Data visualization and cleaning
+2) Train-test Split
+3) Training Models
+4) Model evaluation
 
-train.csv: dataset used for training.,test.csv: dataset used for testing.,submission.csv: dataset used for submitting to kaggle.
+1) train.csv: dataset used for training.
+2) test.csv: dataset used for testing.
+3) submission.csv : File used for submission to kaggle
 
-Dataset link = https://www.kaggle.com/c/titanic/data
-Titanic.ipynb: the jupyter notebook containing code
+Titanic.ipynb:- Notebook containing the code
+
+
